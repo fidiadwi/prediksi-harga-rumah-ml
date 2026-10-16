@@ -1,0 +1,21 @@
+
+RINGKASAN PROYEK PREDIKSI HARGA RUMAH
+
+Dataset:
+Ames Housing - penjualan rumah di Ames, Iowa, Amerika Serikat.
+
+Jumlah data awal: 1460
+Jumlah fitur yang digunakan: 79
+Data pelatihan: 1168
+Data pengujian: 292
+
+Model terbaik berdasarkan MAE:
+Random Forest
+
+MAE: $17,483.58
+RMSE: $28,738.55
+R2 Score: 0.8923
+
+Catatan:
+Hasil evaluasi berasal dari pembagian data pengujian sebesar 20%.
+Hasil ini bukan jaminan akurasi untuk pasar rumah di Indonesia.
